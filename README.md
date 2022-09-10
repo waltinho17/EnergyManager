@@ -2,13 +2,11 @@
   <img width="350" align="center" src="Screenshots/1.png">
 </p>
 <h1 align="center">Energy Manager
-    <p align="center">
-        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/waltinho17/EnergyManager/1.0/total?label=download&style=social">
-        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/waltinho17/energymanager/1.0/total?label=download">
-        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/waltinho17/energymanager">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/waltinho17/energymanager?label=last%20update">
-        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/waltinho17/EnergyManager?label=size">
-    </p>
+
+  [![GitHub all releases](https://img.shields.io/github/downloads/waltinho17/energymanager/total?label=download)](/Energy-manager.bat?raw=true)
+  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/waltinho17/energymanager)
+  ![GitHub file size in bytes](https://img.shields.io/github/size/waltinho17/energymanager/Energy-manager.bat)
+  ![GitHub Release Date](https://img.shields.io/github/release-date/waltinho17/energymanager)
 </h1>
 <p align="center">
   Um simples gerenciador à moda antiga.
@@ -45,4 +43,3 @@
 * O problema em não usar o Desempenho máximo é que talvez o jogo não consiga habilitar o TurboBoost e utilizar de fato a frequência maior que o processador consegue trabalhar.
 
 ![cpu](Screenshots/CPU1.gif)
-

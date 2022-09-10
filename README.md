@@ -27,3 +27,10 @@
 * Este procedimento combinado com uma boa configuração na BIOS e em outros parâmetros no windows, faz com que você obtenha 100% do potencial que o seu hardware pode te entregar.
 
 ![Gerenciador](Screenshots/2.png)
+
+## Exemplo
+* Neste caso o processador tem frequência base de 4.2Ghz e 4.5Ghz com TurboBoost.
+* A diferença entre usar um plano de energia "Economia de energia" e o "Desempenho máximo", é que o economico ficará com a frequencia mínima ativada, trabalhando com < 1Ghz e ao abrir um jogo a frequência vai aumentar conforme necessário.
+* O problema em não usar o Desempenho máximo é que talvez o jogo não consiga habilitar o TurboBoost e utilizar de fato a frequência maior que o processador consegue trabalhar.
+
+![cpu](Screenshots/CPU1.gif)

@@ -20,8 +20,8 @@ echo ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═
 echo.
 echo Denvolvido por Walter Rodrigues v1.0
 echo.
-REM Menu principal
 :menu1
+REM Menu principal
 echo GERENCIADOR DE PLANOS DE ENERGIA
 echo.
 echo  1. Habilitar plano de energia - Desempenho máximo          

@@ -3,10 +3,11 @@
 </p>
 <h1 align="center">Energy Manager
     <p align="center">
-        <a href="https://codeload.github.com/waltinho17/EnergyManager/zip/refs/heads/main"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/waltinho17/EnergyManager/total?label=download"></a>
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/waltinho17/EnergyManager?label=last%20update">
-        <img alt="GitHub file size in bytes" src="https://img.shields.io/github/size/waltinho17/EnergyManager/Energy-manager.bat">
-        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/waltinho17/energymanager">
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/waltinho17/EnergyManager/1.0/total?label=download&style=social">
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/waltinho17/energymanager/1.0/total?label=download">
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/waltinho17/energymanager">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/waltinho17/energymanager?label=last%20update">
+        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/waltinho17/EnergyManager?label=size">
     </p>
 </h1>
 <p align="center">

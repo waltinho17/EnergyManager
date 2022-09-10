@@ -27,7 +27,7 @@
 ## Como utilizar
 * Abra o arquivo <code>Energy-manager.bat</code> pressione <kbd>1</kbd> e tecle <kbd>enter</kbd>.
 * O painel de seleção vai abrir automaticamente, basta selecionar <b>Desempenho máximo</b>.
-* Caso tenha adicionado o plano de forma duplicada e queira excluir, basta usar a opção <kbd>2</kbd>, copiar o código do plano duplicado, abrir uma nova instancia do CMD e usar o comando <code>powercfg.exe /delete código</code>
+* Caso tenha adicionado o plano de forma duplicada e queira excluir, basta usar a opção <kbd>2</kbd>, copiar o código do plano duplicado, abrir uma nova instancia do CMD e usar o comando <code>powercfg.exe /delete código</code>. Exemplo <code>powercfg.exe /delete a14a5c46-3f7c-4621-8400-ca380d72f81a</code>.
 * Use a opção <kbd>2</kbd> para listar novamente ou <kbd>3</kbd> para abrir o painel de planos de energia.
 
 ## Dicas

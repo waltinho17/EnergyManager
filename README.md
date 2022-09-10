@@ -31,7 +31,7 @@
 * Use a opção <kbd>2</kbd> para listar novamente ou <kbd>3</kbd> para abrir o painel de planos de energia.
 
 ## Dicas
-* Afim de obter o melhor desempenho do seu computador, principalmente do processador, é indicado que utilize o plano de energia com desempenho máximo.
+* A fim de obter o melhor desempenho do seu computador, principalmente do processador, é indicado que utilize o plano de energia com desempenho máximo.
 * O plano de energia modifica a forma que o processador trabalha, sua frequência ficará sempre na máxima permitida, portanto fique atento nas <b>temperaturas</b>. 
 * Este procedimento combinado com uma boa configuração na BIOS e em outros parâmetros no windows, faz com que você obtenha 100% do potencial que o seu hardware pode te entregar.
 

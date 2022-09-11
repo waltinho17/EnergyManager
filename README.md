@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Energy Manager
 
-  [![GitHub all releases](https://img.shields.io/github/downloads/waltinho17/energymanager/total?label=download)](https://codeload.github.com/waltinho17/EnergyManager/zip/refs/tags/1.0)
+  [![GitHub all releases](https://img.shields.io/github/downloads/waltinho17/energymanager/total?label=download)](https://github.com/waltinho17/EnergyManager/releases/tag/1.0)
   ![GitHub release (latest by date)](https://img.shields.io/github/v/release/waltinho17/energymanager)
   ![GitHub file size in bytes](https://img.shields.io/github/size/waltinho17/energymanager/Energy-manager.zip)
   ![GitHub Release Date](https://img.shields.io/github/release-date/waltinho17/energymanager)
